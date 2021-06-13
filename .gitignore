@@ -1,0 +1,7 @@
+#Com[piled class files
+*.class
+
+# Logs
+*.log
+
+.DS_Store
